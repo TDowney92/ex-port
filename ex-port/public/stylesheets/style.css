@@ -1,6 +1,15 @@
 /* express css */
+ html {
+	 background: #393e47;
+ }
+
 body {
-  padding: 50px;
+	background: #393e47;
+	padding: 50px;
+}
+
+.jumbotron {
+	background: #a4cad6;
 }
 
 a {
@@ -10,11 +19,31 @@ a {
 h1 {
 	padding: 20px;
 	font-family: 'Oswald', sans-serif;
+	background: #393e47;
+	color: #87a8dd;
+}
+/* nav css */
+#nav a {
+	color: black;
 }
 
+#nav {
+		font-family: 'Oswald', sans-serif;
+		font-size: 2em;
+		background: #e59109;
+}
 
+nav btn {
+	font-size: 2em;
+}
 /* contact form css */
 
 form {
 	padding: 15px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.2em;
+}
+
+form label {
+	color: #87a8dd;
 }
