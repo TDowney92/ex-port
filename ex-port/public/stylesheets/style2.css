@@ -1,0 +1,22 @@
+body,html {
+	height: 100%;
+	margin: 0;
+}
+
+
+#land {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	max-width: 100%;
+}
+
+.bg {
+	background-image: url(/stylesheets/desk.jpg);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*opacity: 0.9;*/
+}
