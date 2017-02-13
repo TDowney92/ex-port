@@ -84,8 +84,10 @@ form label {
 	border: solid 4px #e59109;
 }
 
+
 #port1 {
 	padding: 20px;
+	float: left;
 }
 
 #port1 h3 {
@@ -101,9 +103,10 @@ form label {
 
 #port2 {
 	padding: 20px;
+	float: right;
 }
 
-#port2 h3 {
+ h3 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 2.3em;
 }
@@ -116,6 +119,7 @@ form label {
 
 #port3 {
 	padding: 20px;
+	float: inherit;
 }
 
 #port3 h3 {
