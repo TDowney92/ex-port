@@ -74,7 +74,54 @@ form label {
 
 }
 
+/* portfolio page css */
 
+
+
+#port1 img {
+	max-width: 100%;
+	height: 250px;
+	border: solid 4px #e59109;
+}
+
+#port1 {
+	padding: 20px;
+}
+
+#port1 h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.3em;
+}
+
+#port2 img {
+	max-width: 100%;
+	height: 250px;
+	border: solid 4px #e59109;
+}
+
+#port2 {
+	padding: 20px;
+}
+
+#port2 h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.3em;
+}
+
+#port3 img {
+	max-width: 100%;
+	height: 250px;
+	border: solid 4px #e59109;
+}
+
+#port3 {
+	padding: 20px;
+}
+
+#port3 h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.3em;
+}
 /* services skill bar css ( imported from outside source) */
 #codeconSkills {
     font-size: 20px;
