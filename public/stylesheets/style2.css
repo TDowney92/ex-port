@@ -12,6 +12,10 @@ body,html {
 	max-width: 100%;
 }
 
+#land img {
+	max-width: 100vw;
+}
+
 .bg {
 	background-image: url(/stylesheets/img/desk.jpg);
 	height: 100%;
